@@ -1,0 +1,29 @@
+list 
+append
+sort
+extend
+reverse
+insert
+join  -- string method usedd for conccantentaion
+index returns index
+pop - default removes last element
+clear
+split -it breaks the input based on the delimeter if no args is passed it breaks by spaces
+ 
+
+slicing
+[start:end:step]
+end is exclusive
+
+list comprehension
+[_for_in_]
+nestled list
+[[_for_in_]for_in_]
+
+lambda
+it is a one line expression functionn
+similar to function
+
+map
+it takes function and a iterable values (list,string,tuple,dict)
+it returns as a map object
